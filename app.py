@@ -1,7 +1,7 @@
 from datetime import datetime
 
 def main():
-    print("Hello from Python App in Docker!")
+    print("Hello This is Suresh Pithani")
     print(f"Current time is: {datetime.now()}")
 
 if __name__ == "__main__":
