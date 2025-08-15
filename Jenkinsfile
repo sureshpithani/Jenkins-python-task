@@ -4,7 +4,7 @@ pipeline {
     environment {
         AWS_ACCOUNT_ID = '417744795688'
         AWS_REGION = 'eu-north-1'
-        ECR_REPO = 'my-python-app'
+        ECR_REPO = 's-python-app'
         IMAGE_TAG = "latest"
     }
     
