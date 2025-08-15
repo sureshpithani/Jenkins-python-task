@@ -2,8 +2,8 @@ pipeline {
     agent any
     
     environment {
-        AWS_ACCOUNT_ID = '<AWS_ACCOUNT_ID>'
-        AWS_REGION = '<AWS_REGION>'
+        AWS_ACCOUNT_ID = '417744795688'
+        AWS_REGION = 'eu-north-1'
         ECR_REPO = 'my-python-app'
         IMAGE_TAG = "latest"
     }
